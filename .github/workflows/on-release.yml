@@ -11,4 +11,4 @@ jobs:
       - name: checkout
         uses: actions/checkout@v3
       - name: Call krew-release-bot
-        uses: rajatjindal/krew-release-bot@v0.0.47
+        uses: rajatjindal/krew-release-bot@3d9faef30a82761d610544f62afddca00993eef9 # v0.0.47

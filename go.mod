@@ -3,7 +3,7 @@ module github.com/netobserv/network-observability-cli
 go 1.25.7
 
 require (
-	github.com/gdamore/tcell/v2 v2.13.9
+	github.com/gdamore/tcell/v2 v2.13.10
 	github.com/gopacket/gopacket v1.5.0
 	github.com/jpillora/sizestr v1.0.0
 	github.com/mattn/go-sqlite3 v1.14.44
@@ -11,7 +11,7 @@ require (
 	github.com/netobserv/flowlogs-pipeline v1.11.4-community.0.20260521155724-7ee2fbbc7651
 	github.com/netobserv/netobserv-ebpf-agent v1.11.4-community.0.20260526070517-19644c4749ad
 	github.com/onsi/ginkgo/v2 v2.28.1
-	github.com/onsi/gomega v1.40.0
+	github.com/onsi/gomega v1.41.0
 	github.com/sirupsen/logrus v1.9.4
 	github.com/spf13/cobra v1.10.2
 	github.com/stretchr/testify v1.11.1
